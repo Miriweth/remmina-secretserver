@@ -1,0 +1,7 @@
+remmina-upstream/
+remmina-plugin-delinea.so
+test-plugin
+*.tar.gz
+config.ini
+.cache/
+test-token-store

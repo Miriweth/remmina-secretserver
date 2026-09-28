@@ -1,0 +1,11 @@
+# Edit in Remmina: Menu -> Preferences -> Delinea.
+# Each Remmina RDP profile stores its own Secret ID.
+[server]
+url=https://secretserver.example.org/SecretServer
+api_version=v2
+auth=browser-token
+
+# Alternative: direct API login with a Secret Server account and OTP.
+# auth=password
+# api_user=remmina-api
+# mfa=otp
